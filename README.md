@@ -10,7 +10,7 @@ Our aim is to contribute to the modernization of agriculture by integrating robo
 
 ## Features
 
-- 🌱 **Soil Monitoring**: Measures moisture, temperature, and pH levels.
+- 🌱 **Soil Monitoring**: Measures moisture, temperature, and pH levels. (https://docs.google.com/spreadsheets/d/e/2PACX-1vRyNmdbRcTDtKLtjzVX6yAA7jjKX55YSQ39X1qZlaA9dLxywMsRLFFrLsGcFwDLHCorP9yb10JPRGsQ/pubhtml)
 - 🛰️ **GPS and Vision Navigation**: Autonomous path-following using GPS and sensor fusion.
 - 📡 **IoT Dashboard**: Real-time data visualization and control via web interface.
 
